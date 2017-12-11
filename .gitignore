@@ -1,0 +1,5 @@
+*.[oa]
+/EWARM/MF
+/EWARM/settings
+*.mxproject
+*.scratch
